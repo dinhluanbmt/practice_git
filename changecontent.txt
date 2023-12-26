@@ -6,3 +6,4 @@ this line is added in FixBug branch.
 this conten will be add, and this will be added then delete(restore)
 text to delete
 the new text want to push to remote server
+remote server add text.
