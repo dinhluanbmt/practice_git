@@ -2,4 +2,6 @@ this is just test content
 aasfdlkslkflasdf
 asflsafklsakflsad
 lkasdlfksaf
-this conten will be add
+this line is added in FixBug branch.
+this conten will be add, and this will be added then delete(restore)
+text to delete
